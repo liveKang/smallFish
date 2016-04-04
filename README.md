@@ -1,4 +1,2 @@
-# smallFish
-H5 小鱼游戏
-
-25小时 细心之作，fork请点个星星
+# smallFish game
+HTML5 小鱼游戏 canvas 贝塞尔曲线 碰撞检测 
